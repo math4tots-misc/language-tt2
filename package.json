@@ -1,0 +1,17 @@
+{
+  "name": "language-tt2",
+  "version": "0.0.0",
+  "description": "tt language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/math4tots/language-tt2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/math4tots/language-tt2/issues"
+  },
+  "license": "MIT"
+}
